@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/leeburt/embedding-project/raw/master/test_vec.tsv",
-      "metadataPath": "https://github.com/leeburt/embedding-project/raw/master/test_name.tsv"
+      "tensorPath": "raw.githubusercontent.com/leeburt/embedding-project/master/test_vec.tsv",
+      "metadataPath": "raw.githubusercontent.com/leeburt/embedding-project/master/test_name.tsv"
     }
   ]
 }

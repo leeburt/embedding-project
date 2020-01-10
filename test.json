@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "github.com/leeburt/embedding-project/blob/master/test_vec.tsv",
+      "metadataPath": "github.com/leeburt/embedding-project/blob/master/test_name.tsv"
+    }
+  ]
+}
